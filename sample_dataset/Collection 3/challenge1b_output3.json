@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "input_documents": [
+      "Breakfast Ideas.pdf",
+      "Dinner Ideas - Mains_1.pdf",
+      "Dinner Ideas - Mains_2.pdf",
+      "Dinner Ideas - Mains_3.pdf",
+      "Dinner Ideas - Sides_1.pdf",
+      "Dinner Ideas - Sides_2.pdf",
+      "Dinner Ideas - Sides_3.pdf",
+      "Dinner Ideas - Sides_4.pdf",
+      "Lunch Ideas.pdf"
+    ],
+    "persona": "Food Contractor",
+    "job_to_be_done": "Prepare a vegetarian buffet-style dinner menu for a corporate gathering, including gluten-free items.",
+    "processing_timestamp": "2025-07-28T15:36:54.127009"
+  },
+  "extracted_sections": [
+    {
+      "document": "Breakfast Ideas.pdf",
+      "section_title": "Breakfast Ideas",
+      "importance_rank": 1,
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "section_title": "Dinner Ideas - Mains_1",
+      "importance_rank": 2,
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Dinner Ideas - Mains_2",
+      "importance_rank": 3,
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "section_title": "Dinner Ideas - Mains_3",
+      "importance_rank": 4,
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "section_title": "Dinner Ideas - Sides_1",
+      "importance_rank": 5,
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Dinner Ideas - Sides_2",
+      "importance_rank": 6,
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Dinner Ideas - Sides_3",
+      "importance_rank": 7,
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "section_title": "Dinner Ideas - Sides_4",
+      "importance_rank": 8,
+      "page_number": 1
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Lunch Ideas",
+      "importance_rank": 9,
+      "page_number": 1
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": "Pancakes \nIngredients: \n\u2022 \n1 cup all-purpose flour \n\u2022 \n2 tablespoons sugar \n\u2022 \n1 teaspoon baking powder \n\u2022 \n1/2 teaspoon baking soda \n\u2022 \n1/4 teaspoon salt \n\u2022 \n1 cup buttermilk \n\u2022 \n1 large egg \n\u2022 \n2 tablespoons melted butter \n\u2022 \n1 teaspoon vanilla extract \nInstructions: \n\u2022 \nIn a bowl, whisk together flour, sugar, baking powder, baking soda, and salt. \n\u2022 \nIn another bowl, combine buttermilk, egg, melted butter, and vanilla extract. \n\u2022 \nPour the wet ingredients into the dry ingredients and stir until just combined. \n\u2022 \nHeat a non-stick skillet over medium heat and lightly grease it. \n\u2022 \nPour 1/4 cup of batter onto the skillet for each pancake. \n\u2022 \nCook until bubbles form on the surface, then flip and cook until golden brown. \n\u2022 \nServe with syrup and your favorite toppings. \n \n \n \nScrambled Eggs \nIngredients: \n\u2022 \n4 large eggs \n\u2022 \n1/4 cup milk \n\u2022 \nSalt and pepper to taste \n\u2022 \n1 tablespoon butter \nInstructions: \n\u2022 \nIn a bowl, whisk together eggs, milk, salt, and pepper. \n\u2022 \nHeat a non-stick ",
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "refined_text": "Beef Stroganoff \nIngredients: \n\uf0b7 \n1 pound beef sirloin, thinly sliced \n\uf0b7 \n1 small onion, diced \n\uf0b7 \n2 cloves garlic, minced \n\uf0b7 \n1 cup mushrooms, sliced \n\uf0b7 \n1 cup beef broth \n\uf0b7 \n1 cup sour cream \n\uf0b7 \n2 tablespoons flour \n\uf0b7 \n2 tablespoons butter \n\uf0b7 \n1 teaspoon paprika \n\uf0b7 \nSalt and pepper to taste \n\uf0b7 \nEgg noodles or rice for serving \nInstructions: \n\uf0b7 \nIn a large skillet, melt butter over medium heat. \n\uf0b7 \nAdd diced onion and minced garlic, saut\u00e9 until translucent. \n\uf0b7 \nAdd sliced beef and cook until browned. \n\uf0b7 \nStir in mushrooms and cook until tender. \n\uf0b7 \nSprinkle flour over the mixture and stir to combine. \n\uf0b7 \nGradually add beef broth, stirring constantly until the sauce thickens. \n\uf0b7 \nStir in sour cream and paprika, season with salt and pepper. \n\uf0b7 \nSimmer for a few minutes until heated through. \n\uf0b7 \nServe over egg noodles or rice. \n \n \n \nChicken Parmesan \nIngredients: \n\uf0b7 \n4 boneless, skinless chicken breasts \n\uf0b7 \n1 cup breadcrumbs \n\uf0b7 \n1/2 cup grated Parmesan cheese \n\uf0b7 \n1 cup marinara sauce \n\uf0b7",
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "\uf0b7 \n1 teaspoon thyme \n\uf0b7 \n1 teaspoon rosemary \n\uf0b7 \n1/4 cup olive oil \n\uf0b7 \nSalt and pepper to taste \nInstructions: \n\uf0b7 \nPreheat oven to 375\u00b0F (190\u00b0C). \n\uf0b7 \nIn a large baking dish, layer diced eggplant, zucchini, bell pepper, onion, and tomatoes. \n\uf0b7 \nIn a bowl, mix minced garlic, olive oil, thyme, rosemary, salt, and pepper. \n\uf0b7 \nPour the mixture over the vegetables and toss to coat. \n\uf0b7 \nBake for 45 minutes until vegetables are tender. \n\uf0b7 \nServe warm. \n \n \n \nRoast Chicken \nIngredients: \n\uf0b7 \n1 whole chicken \n\uf0b7 \n1 lemon, halved \n\uf0b7 \n4 cloves garlic, minced \n\uf0b7 \n1/4 cup olive oil \n\uf0b7 \n1 tablespoon fresh rosemary, chopped \n\uf0b7 \n1 tablespoon fresh thyme, chopped \n\uf0b7 \nSalt and pepper to taste \nInstructions: \n\uf0b7 \nPreheat oven to 375\u00b0F (190\u00b0C). \n\uf0b7 \nSeason the chicken with salt and pepper. \n\uf0b7 \nStuff the cavity with lemon halves and minced garlic. \n\uf0b7 \nIn a bowl, mix olive oil, chopped rosemary, and chopped thyme. \n\uf0b7 \nBrush the mixture over the chicken. \n\uf0b7 \nPlace the chicken in a roasting pan and roast for 1 hour",
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "refined_text": "\uf0b7 \nReturn chicken to the skillet and cook until heated through. \n\uf0b7 \nServe warm. \n \n \n \nPeking Duck \nIngredients: \n\uf0b7 \n1 whole duck \n\uf0b7 \n1/4 cup soy sauce \n\uf0b7 \n1/4 cup honey \n\uf0b7 \n2 tablespoons hoisin sauce \n\uf0b7 \n2 tablespoons rice vinegar \n\uf0b7 \n2 cloves garlic, minced \n\uf0b7 \n1 teaspoon five-spice powder \n\uf0b7 \n1 teaspoon grated ginger \n\uf0b7 \n1/4 cup green onions, sliced \n\uf0b7 \nMandarin pancakes for serving \nInstructions: \n\uf0b7 \nPreheat oven to 375\u00b0F (190\u00b0C). \n\uf0b7 \nIn a bowl, mix soy sauce, honey, hoisin sauce, rice vinegar, minced garlic, five-spice \npowder, and grated ginger. \n\uf0b7 \nBrush the mixture over the duck. \n\uf0b7 \nPlace duck on a roasting rack and roast for 1 hour and 30 minutes until skin is crispy. \n\uf0b7 \nLet rest before carving. \n\uf0b7 \nServe duck with sliced green onions and mandarin pancakes. \n \n \n \nPork Schnitzel \nIngredients: \n\uf0b7 \n4 pork cutlets \n\uf0b7 \n1/2 cup flour \n\uf0b7 \n2 eggs, beaten \n\uf0b7 \n1 cup breadcrumbs \n\uf0b7 \n1/4 cup vegetable oil \n\uf0b7 \n1 lemon, sliced \n\uf0b7 \nSalt and pepper to taste \nInstructions: \n\uf0b7 \nSeason pork c",
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "refined_text": "Acaraj\u00e9 \n\uf0b7 \nIngredients:  \no 2 cups black-eyed peas \no 1 small onion \no 2 cloves garlic \no 1 teaspoon salt \no Oil for frying \n\uf0b7 \nInstructions: \no Soak black-eyed peas overnight, then peel and rinse. \no Blend peas with diced onion, minced garlic, and salt until smooth. \no Form mixture into balls and fry in hot oil until golden. \no Drain on paper towels and serve warm. \n \nAgedashi Tofu \n\uf0b7 \nIngredients: \no 1 block tofu \no 1/4 cup cornstarch \no 1 cup dashi broth \no 2 tablespoons soy sauce \no 1 tablespoon mirin \no 1/4 cup green onions \no 1/4 cup grated daikon \n\uf0b7 \nInstructions: \no Cut tofu into cubes and coat with cornstarch. \no Fry in hot oil until golden. \no Heat dashi broth with soy sauce and mirin. \no Serve tofu in broth, topped with green onions and grated daikon. \n \nAloo Gobi \n\uf0b7 \nIngredients: \no 2 potatoes \no 1 cauliflower \no 1 small onion \no 2 cloves garlic \no 1 teaspoon cumin \no 1 teaspoon turmeric \no 1 teaspoon coriander \no 1 teaspoon garam masala \no 1 teaspoon salt \no 2 tablespoons",
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "refined_text": "Churros \n\uf0b7 \nIngredients: \no 1 cup water \no 1/2 cup butter \no 1 cup flour \no 3 eggs \no 1/4 cup sugar \no 1 teaspoon cinnamon \no Oil for frying \n\uf0b7 \nInstructions: \no Bring water and butter to a boil. \no Add flour and stir until a dough forms. \no Remove from heat and beat in eggs one at a time. \no Heat oil in a pan. \no Pipe dough into hot oil and fry until golden. \no Drain on paper towels and roll in a mixture of sugar and cinnamon. \no Serve warm. \n \nCoconut Rice \n\uf0b7 \nIngredients: \no 1 cup rice \no 1 cup coconut milk \no 1 cup water \no 1/4 cup shredded coconut \no 1 teaspoon salt \n\uf0b7 \nInstructions: \no Saut\u00e9 shredded coconut until lightly browned. \no Add rice, coconut milk, water, and salt. \no Bring to a boil, then reduce heat and simmer until rice is tender. \no Serve warm. \n \nColeslaw \n\uf0b7 \nIngredients: \no 1 small cabbage \no 2 carrots \no 1/2 cup mayonnaise \no 2 tablespoons apple cider vinegar \no 1 tablespoon sugar \no 1 teaspoon salt \n\uf0b7 \nInstructions: \no Shred cabbage and grate carrots. \no Mix mayo",
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "refined_text": "o 2 cloves garlic \no 4 tomatoes \no 4 cups vegetable broth \no 1 teaspoon cumin \no 1 teaspoon coriander \no 1 teaspoon turmeric \no 1 teaspoon salt \no 1/4 cup cilantro \n\uf0b7 \nInstructions: \no Saut\u00e9 diced onion and minced garlic until softened. \no Add diced tomatoes, lentils, chickpeas, vegetable broth, cumin, coriander, \nturmeric, and salt. \no Simmer for 30 minutes until lentils are tender. \no Stir in chopped cilantro and serve warm. \n \nHorta \n\uf0b7 \nIngredients: \no 1 pound dandelion greens \no 1/4 cup olive oil \no 1/4 cup lemon juice \no 1 teaspoon salt \n\uf0b7 \nInstructions: \no Boil dandelion greens until tender, then drain. \no Toss greens with olive oil, lemon juice, and salt. \no Serve warm or chilled. \n \nHot and Sour Soup \n\uf0b7 \nIngredients: \no 4 cups chicken broth \no 1/2 cup sliced mushrooms \no 1/4 cup bamboo shoots \no 1/4 cup tofu \no 2 tablespoons soy sauce \no 2 tablespoons rice vinegar \no 1 tablespoon cornstarch \no 1 teaspoon chili paste \no 1 egg \no 1/4 cup chopped green onions \n\uf0b7 \nInstructions: \no ",
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "refined_text": "o Scramble eggs in the same pan. \no Add noodles, fish sauce, tamarind paste, sugar, and lime juice, stir to combine. \no Add bean sprouts, cooked shrimp, and chopped green onions. \no Garnish with crushed peanuts and serve. \n \nPajeon (Pancakes) \n\uf0b7 \nIngredients: \no 1 cup flour \no 1 cup water \no 1 egg \no 1/2 cup green onions \no 1/2 cup seafood (optional) \no 1 tablespoon soy sauce \no 1 tablespoon sesame oil \n\uf0b7 \nInstructions: \no Mix flour, water, and beaten egg in a bowl. \no Add chopped green onions and seafood (if using). \no Heat sesame oil in a pan and pour in batter. \no Cook until golden on both sides. \no Serve with soy sauce for dipping. \n \nPan con Tomate \n\uf0b7 \nIngredients: \no 1 baguette \no 4 tomatoes \no 2 cloves garlic \no 1/4 cup olive oil \no 1 teaspoon salt \n\uf0b7 \nInstructions: \no Slice baguette and toast until golden. \no Rub toasted bread with cut garlic cloves. \no Grate tomatoes and spread on bread. \no Drizzle with olive oil and sprinkle with salt. \no Serve immediately. \n \nPaneer Tikka \n\uf0b7",
+      "page_number": 1
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "refined_text": "Chicken Caesar Wrap \nIngredients: \n\u2022 \n1 whole wheat tortilla \n\u2022 \n1 cup cooked chicken breast, sliced \n\u2022 \n1 cup romaine lettuce, chopped \n\u2022 \n2 tablespoons Caesar dressing \n\u2022 \n2 tablespoons grated Parmesan cheese \n\u2022 \nOptional: croutons for extra crunch \nInstructions: \n\u2022 \nLay the tortilla flat and spread the Caesar dressing evenly. \n\u2022 \nAdd the chicken, lettuce, and Parmesan cheese. \n\u2022 \nRoll up the tortilla tightly and slice in half. \n \n \n \nQuinoa Salad \nIngredients: \n\u2022 \n1 cup cooked quinoa \n\u2022 \n1/2 cup cherry tomatoes, halved \n\u2022 \n1/2 cucumber, diced \n\u2022 \n1/4 cup red onion, finely chopped \n\u2022 \n1/4 cup feta cheese, crumbled \n\u2022 \n2 tablespoons olive oil \n\u2022 \n1 tablespoon lemon juice \n\u2022 \nSalt and pepper to taste \nInstructions: \n\u2022 \nIn a large bowl, combine the quinoa, tomatoes, cucumber, red onion, and feta cheese. \n\u2022 \nDrizzle with olive oil and lemon juice. \n\u2022 \nSeason with salt and pepper, then toss to combine. \n \n \n \nTurkey and Avocado Sandwich \nIngredients: \n\u2022 \n2 slices whole grain bread \n\u2022 \n4 s",
+      "page_number": 1
+    }
+  ]
+}
